@@ -1,6 +1,6 @@
 {
   "name": "@gggdomi/rrh-alerts",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "repository": "github:gggdomi/rrh-alerts",
   "description": "Plugin for RRH to display notifications when requests resolve.",
   "license": "MIT",
