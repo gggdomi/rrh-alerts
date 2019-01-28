@@ -1,0 +1,44 @@
+{
+  "name": "@gggdomi/rrh-alerts",
+  "version": "0.0.0",
+  "repository": "github:gggdomi/rrh-alerts",
+  "description": "Plugin for RRH to display notifications when requests resolve.",
+  "license": "MIT",
+  "main": "src/index.js",
+  "author": {
+    "name": "Guillaume Dominici",
+    "url": "http://dominici.io"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "src/*.js"
+  ],
+  "keywords": [
+    "rrh",
+    "rrh plugin",
+    "rrh alert",
+    "notifications",
+    "alerts",
+    "redux alerts",
+    "redux notifications"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "redux-saga": "^1.0.0"
+  },
+  "peerDependencies": {
+    "@gggdomi/rrh": "^0.2.1",
+    "react": "^16.6.0",
+    "react-dom": "^16.7.0",
+    "react-redux": "^6.0.0",
+    "react-router": "^4.3.1",
+    "react-toastify": "^4.5.2",
+    "redux": "^4.0.1"
+  }
+}

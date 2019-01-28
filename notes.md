@@ -1,0 +1,1 @@
+There is a problem using `yarn link` with `react-toastify`: toast from the package doesn't resolve like toast in the project, and notifications are thus not displayed. Solution: use yalc instead of yarn link.
